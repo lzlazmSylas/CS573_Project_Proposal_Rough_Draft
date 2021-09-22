@@ -1,5 +1,4 @@
-# CS573_Project_Proposal_Rough_Draft
-
+# CS573 Project Proposal Rough Draft
 - - -
 # Data
 ## Attribute

@@ -21,5 +21,5 @@ I will visualize this data set in my project.
 - What kind of crime take the largest precentage among the all kind of crimes.
 # Sketches
 # Prototype
-![https://vizhub.com/lzlazmSylas/3f7a8aa8cd1549af972033659b6561c5?mode=embed" title="Bar chart of crime in India" frameborder="0"]  
+![https://vizhub.com/lzlazmSylas/3f7a8aa8cd1549af972033659b6561c5?mode=embed"]  
 In this prototype I visulize the total number of reported rape cases in India from 2001 to 2014, we can tell which sate has the most rape cases in India so this bar chart helps to answer the second question. But since the total amoung of each case is super large, it is little bit difficult to show all the crimes in a single bar chart. 

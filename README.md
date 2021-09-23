@@ -20,6 +20,8 @@ I will visualize this data set in my project.
 - Which state's crime rate is showing a upward trend.
 - What kind of crime take the largest precentage among the all kind of crimes.
 # Sketches
+[![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/Sketchesjpg.jpg)]   
 # Prototype
-[![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/WeChat%20Image_20210922212644.png)]  
+[![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/prototype.png)]  
 In this prototype I visulize the total number of reported rape cases in India from 2001 to 2014, we can tell which sate has the most rape cases in India so this bar chart helps to answer the second question. But since the total amoung of each case is super large, it is little bit difficult to show all the crimes in a single bar chart. 
+# Questions

@@ -20,9 +20,9 @@ I will visualize this data set in my project.
 - Which state's crime rate is showing a upward trend.
 - What kind of crime take the largest precentage among the all kind of crimes.
 # Sketches
-![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/Sketchesjpg.jpg)]  
-The first bar chart can use number of crimes as X coordinate and use each state bound to Y coordinate, so it is claer to tell which state have the most crimes in a specified crime if I just use one bar chart for only one type of crime.
-The second line chart use timeline as X coordinate and if I use number of one type of crimes as Y coordinate, I can easily tell the crime tendency of each state, but I can only figure out tends for one type of crime among states in India in each line chart.
+![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/Sketchesjpg.jpg)  
+The first bar chart can use number of crimes as X coordinate and use each state bound to Y coordinate, so it is claer to tell which state have the most crimes in a specified crime if I just use one bar chart for only one type of crime.  
+The second line chart use timeline as X coordinate and if I use number of one type of crimes as Y coordinate, I can easily tell the crime tendency of each state, but I can only figure out tends for one type of crime among states in India in each line chart.  
 The third sketche allow me to identify the percentages of types of crimes, then I can compare each crime and find answer of the last question.
 # Prototype
 ![image](https://github.com/lzlazmSylas/CS573_Project_Proposal_Rough_Draft/blob/main/prototype.png)  
